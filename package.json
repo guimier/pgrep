@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xtuple/node-pgrep.git"
+    "url": "https://github.com/xtuple/pgrep.git"
   },
   "keywords": [
     "pgrep",
